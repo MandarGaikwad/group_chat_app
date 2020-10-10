@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "890412368755",
+    "firebase_url": "https://chat-app-mandar.firebaseio.com",
+    "project_id": "chat-app-mandar",
+    "storage_bucket": "chat-app-mandar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890412368755:android:f62039b6b6756fb9773b06",
+        "android_client_info": {
+          "package_name": "com.mandar.gaikwad.chatapp_mandar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890412368755-vn6u9i4btu6b1m083idork9vcjeseec9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mandar.gaikwad.chatapp_mandar",
+            "certificate_hash": "9bc70195b4069c75840aafab932012f8025a0f49"
+          }
+        },
+        {
+          "client_id": "890412368755-50kkktpi36nc95pcrotnib12aiiv6uek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXUmM9GA2v32ux7hYQ2LnW9C0TNbccM8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890412368755-50kkktpi36nc95pcrotnib12aiiv6uek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
